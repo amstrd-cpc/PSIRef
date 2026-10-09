@@ -1,0 +1,76 @@
+
+
+------------ Thu Dec 28 21:57:58 2023 ------------
+
+
+------------ Sun Jan 14 23:37:37 2024 ------------
+
+
+------------ Thu Feb 08 16:07:58 2024 ------------
+
+
+------------ Thu Feb 08 16:09:42 2024 ------------
+TopClock data - MaxValue = 248, MaxClearFilm = 242, MinFilm = 11.
+TopData data - MaxValue = 243, MaxClearFilm = 122, MinFilm = 6.
+BottomClock data - MaxValue = 244, MaxClearFilm = 236, MinFilm = 21.
+BottomData data - MaxValue = 243, MaxClearFilm = 131, MinFilm = 23.
+DX thresholds are as follows:
+	TopClock = 68, TopData = 35,
+	BottomClock = 74, BottomData = 50.
+No film thresholds are as follows:
+	TopClock = 245, TopData = 183,
+	BottomClock = 240, BottomData = 187.
+Track Test Completed with no errors.
+
+
+
+
+------------ Thu Feb 08 16:17:25 2024 ------------
+TopClock data - MaxValue = 248, MaxClearFilm = 241, MinFilm = 10.
+TopData data - MaxValue = 243, MaxClearFilm = 120, MinFilm = 6.
+BottomClock data - MaxValue = 244, MaxClearFilm = 239, MinFilm = 21.
+BottomData data - MaxValue = 243, MaxClearFilm = 131, MinFilm = 23.
+DX thresholds are as follows:
+	TopClock = 67, TopData = 34,
+	BottomClock = 75, BottomData = 50.
+No film thresholds are as follows:
+	TopClock = 245, TopData = 182,
+	BottomClock = 242, BottomData = 187.
+Track Test Completed with no errors.
+
+
+
+
+------------ Thu Feb 08 16:21:25 2024 ------------
+
+
+------------ Thu Feb 08 16:26:01 2024 ------------
+TopClock data - MaxValue = 248, MaxClearFilm = 241, MinFilm = 11.
+TopData data - MaxValue = 243, MaxClearFilm = 122, MinFilm = 10.
+BottomClock data - MaxValue = 244, MaxClearFilm = 121, MinFilm = 15.
+BottomData data - MaxValue = 243, MaxClearFilm = 120, MinFilm = 10.
+DX thresholds are as follows:
+	TopClock = 68, TopData = 38,
+	BottomClock = 41, BottomData = 37.
+No film thresholds are as follows:
+	TopClock = 245, TopData = 183,
+	BottomClock = 183, BottomData = 182.
+Track Test Completed with no errors.
+
+
+
+
+------------ Thu Feb 08 16:36:24 2024 ------------
+TopClock data - MaxValue = 248, MaxClearFilm = 241, MinFilm = 11.
+TopData data - MaxValue = 243, MaxClearFilm = 121, MinFilm = 10.
+BottomClock data - MaxValue = 244, MaxClearFilm = 127, MinFilm = 16.
+BottomData data - MaxValue = 243, MaxClearFilm = 122, MinFilm = 10.
+DX thresholds are as follows:
+	TopClock = 68, TopData = 37,
+	BottomClock = 43, BottomData = 38.
+No film thresholds are as follows:
+	TopClock = 245, TopData = 182,
+	BottomClock = 186, BottomData = 183.
+Track Test Completed with no errors.
+
+

@@ -1,0 +1,420 @@
+
+---- Thu Dec 28 21:53:26 2023 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiBufferHiRes FN_bReadRawFile EC_MemoryNew (141) 35485024
+CN_CiBufferHiRes FN_bLoadImageFromFilm EC_PreviousError (25) 0
+CN_CiPicture FN_bLoadImageFromBuffer EC_PreviousError (25) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Thu Dec 28 21:53:51 2023 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiBufferHiRes FN_bReadRawFile EC_MemoryNew (141) 35485024
+CN_CiBufferHiRes FN_bLoadImageFromFilm EC_PreviousError (25) 0
+CN_CiPicture FN_bLoadImageFromBuffer EC_PreviousError (25) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri Dec 29 13:11:05 2023 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sat Jan 13 14:04:40 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Wed Feb 14 16:15:03 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sun Mar 10 18:01:45 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Tue Mar 19 19:16:00 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Apr 04 14:20:48 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri Apr 05 16:45:59 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sun Apr 07 13:54:52 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Tue Apr 09 14:22:52 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Wed Apr 10 15:49:45 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Wed Apr 10 15:52:35 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Wed Apr 10 15:55:11 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Wed Apr 10 16:05:18 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Wed Apr 10 16:27:36 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Sun Apr 14 12:49:40 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Wed Apr 17 18:58:31 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Sun Apr 21 18:21:15 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Sun Apr 21 18:27:39 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Tue Apr 23 18:08:52 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+
+---- Thu Apr 25 19:57:26 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Apr 25 20:08:45 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Apr 26 16:30:25 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Apr 26 16:54:21 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Apr 26 16:55:29 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Apr 26 18:02:45 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Apr 26 18:04:17 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Apr 26 18:05:27 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Sat Apr 27 17:29:28 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Tue Apr 30 14:35:18 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Sat May 04 20:30:26 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+
+---- Fri May 17 14:49:34 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri May 17 14:49:47 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri May 17 14:58:32 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:00:43 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:08:53 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:09:19 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:10:14 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:11:00 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri May 17 15:11:02 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri May 17 15:11:10 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:12:12 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri May 17 15:13:46 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Mon May 20 17:18:54 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Thu May 23 13:34:11 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Jun 06 17:52:53 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sat Jun 08 15:43:52 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sat Jun 08 19:02:24 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Thu Jul 04 11:29:00 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Fri Jul 05 22:01:00 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sun Jul 07 16:54:07 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Mon Jul 08 20:20:35 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Wed Jul 10 18:05:52 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Tue Jul 23 14:28:37 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Thu Aug 01 14:01:29 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Thu Aug 15 17:47:25 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Aug 16 13:47:29 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Sat Aug 17 02:01:28 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Aug 23 14:00:38 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_NO_DISK_SPACE (2022) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Fri Aug 23 17:30:01 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_KNOWN_EXCEPTION_RECORDED (2018) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Sep 05 19:11:59 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_Global FN_bCreateDirectory EC_WIN_CreateDirectory (162) The filename, directory name, or volume label syntax is incorrect.
+ C:\Temp\C:
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Sep 05 19:13:05 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_Global FN_bCreateDirectory EC_WIN_CreateDirectory (162) The filename, directory name, or volume label syntax is incorrect.
+ C:\Temp\C:
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Sep 05 19:15:03 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_Global FN_bCreateDirectory EC_WIN_CreateDirectory (162) The filename, directory name, or volume label syntax is incorrect.
+ C:\Temp\C:
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Sep 05 19:17:19 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_Global FN_bCreateDirectory EC_WIN_CreateDirectory (162) The filename, directory name, or volume label syntax is incorrect.
+ C:\Temp\C:
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Sep 05 19:18:20 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_Global FN_bCreateDirectory EC_WIN_CreateDirectory (162) The filename, directory name, or volume label syntax is incorrect.
+ C:\Temp\C:
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Sep 19 13:49:14 2024 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sun Jan 12 12:05:11 2025 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiImage FN_bSaveToFile EC_PI_KNOWN_EXCEPTION_RECORDED (2018) 0
+CN_CiPicture FN_bSaveToFile EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToDisk EC_PreviousError (25) 0
+
+---- Thu Feb 13 11:53:17 2025 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Sat Jun 07 14:02:57 2025 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiPicture FN_bLoadImageFromBuffer -1 (-1) 0
+CN_CiPicture FN_bSaveToMemory EC_PreviousError (25) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
+
+---- Wed Jul 02 15:36:57 2025 (Version 3, 1, 0, 28) ---- (Scanner Type 1351, Serial 17373) ----
+Version USB 0x03,0x0F  CCD 0x00,0x00  Lamp 0x05,0x0A  DX 0x00,0x00  Motor 0x05,0x06  Aps 0x00,0x00
+CN_CiThreadDataSavePictures FN_bClientMemoryBufferDismissOldest EC_ClientMemoryBufferInUse (116) 0
+CN_Global FN_FuncSaveToClientMemory EC_PreviousError (25) 0
